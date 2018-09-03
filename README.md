@@ -324,6 +324,7 @@ Components and native modules.
 * [react-native-splashscreen ★336](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 * [react-native-fit-image ★335](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 * [react-native-alphabetlistview ★327](https://github.com/sunnylqm/react-native-alphabetlistview) - A ListView with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
+* [react-native-animated-swiper ★](https://github.com/tiwari4github/react-native-animated-swiper) Animated Swiper || Use it for your Card to horizontally swipe.
 * [react-native-sortable-list ★325](https://github.com/gitim/react-native-sortable-list) A sortable list for react native with both vertical and horizontal direction support.
 * [react-native-country-picker-modal ★318](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-responsive-image ★311](https://github.com/Dharmoslap/react-native-responsive-image) - Most elegant Responsive Image component
